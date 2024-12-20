@@ -65,4 +65,4 @@ public class GameA {
     }
 
 }
- //r = new java.util.Random().nextInt(r) + (99-r);
+ //r = new java.util.Random().nextInt(r) + (99-r);VScode
